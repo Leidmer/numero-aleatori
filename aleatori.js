@@ -6,7 +6,7 @@ function numeroAleatori(){
 	if (i%2==0){
         if (numero=aleatori){
             alert("Ha trigat "+tempsT);
-            break
+            break;
         }
 	}
     }
